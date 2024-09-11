@@ -1,4 +1,4 @@
-#MRX 3.2 Speaker
+# MRX 3.2 Speaker
 MRX 3.2 Speaker is a Python-based text-to-speech program i have uses the pyttsx3 library to convert text input into speech. The program welcomes the user, accepts custom input, and speaks the text until the user exits by typing "00".
 
 Features
